@@ -1,6 +1,8 @@
 * SRFI 131: ERR5RS Record Syntax (reduced)
 
-** by John Cowan, Will Clinger
+** by John Cowan and Will Clinger
+
+
 
 This repository hosts [[https://srfi.schemers.org/srfi-131/][SRFI 131]]: ERR5RS Record Syntax (reduced), a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
